@@ -57,7 +57,7 @@ export default class Porfolio extends Component {
                             href={item.repo}
                             target="blank"
                           >
-                            Repository
+                            Repositório
                           </Button>
                         ]}
                       >
@@ -97,7 +97,7 @@ export default class Porfolio extends Component {
                             href={item.repo}
                             target="blank"
                           >
-                            Repository
+                            Repositório
                           </Button>
                         ]}
                       >
@@ -138,7 +138,7 @@ export default class Porfolio extends Component {
                             target="blank"
                             disabled={item.disabled}
                           >
-                            Repository
+                            Repositório
                           </Button>
                         ]}
                       >
@@ -185,7 +185,7 @@ export default class Porfolio extends Component {
                             href={item.repo}
                             target="blank"
                           >
-                            Repository
+                            Repositório
                           </Button>
                         ]}
                       >
